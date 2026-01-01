@@ -1,0 +1,30 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+*.log
+.env
+.env.*
+backend/.venv/
+backend/venv/
+backend/construction_site/__pycache__/
+backend/crm/__pycache__/
+backend/crm/migrations/__pycache__/
+
+# Django assets
+staticfiles/
+media/
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# Certificates
+backend/certs/
+
+# OS / editors
+.DS_Store
+Thumbs.db

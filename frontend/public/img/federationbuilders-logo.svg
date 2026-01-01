@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 420" role="img" aria-labelledby="title desc">
+<title id="title">Federationbuilders logo</title>
+<desc id="desc">Hand-drawn rustic logo with an embracing home and warm earthy colors</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f7f0e7"/>
+    <stop offset="100%" stop-color="#eedfcc"/>
+  </linearGradient>
+  <style>
+    .stroke { stroke-linecap: round; stroke-linejoin: round; }
+    .earth { stroke: #7b4b2a; }
+    .accent { stroke: #c87941; }
+    .sage { stroke: #6f8b5f; }
+  </style>
+</defs>
+<rect width="840" height="420" rx="28" fill="url(#bg)"/>
+<g transform="translate(50 60)">
+  <path class="stroke earth" d="M25 230 Q115 205 205 230 T385 230" fill="none" stroke-width="8"/>
+  <g transform="translate(60 0)">
+    <rect x="130" y="130" width="200" height="140" rx="16" fill="#ead5ba" stroke="#7b4b2a" stroke-width="9" class="stroke"/>
+    <path d="M115 152 L232 86 L350 152" fill="#d9b16f" stroke="#7b4b2a" stroke-width="10" class="stroke"/>
+    <path d="M285 110 L285 88 L305 88 L305 125" fill="#d9b16f" stroke="#7b4b2a" stroke-width="8" class="stroke"/>
+    <path d="M220 270 L220 220 Q220 196 242 192 Q264 188 280 200 Q296 212 296 236 L296 270" fill="#f7efe0" stroke="#7b4b2a" stroke-width="9" class="stroke"/>
+    <rect x="158" y="172" width="40" height="40" rx="6" fill="#f7efe0" stroke="#7b4b2a" stroke-width="7" class="stroke"/>
+    <rect x="264" y="172" width="40" height="40" rx="6" fill="#f7efe0" stroke="#7b4b2a" stroke-width="7" class="stroke"/>
+    <path d="M70 206 Q110 148 160 168" fill="none" stroke="#c87941" stroke-width="12" class="stroke accent"/>
+    <path d="M390 206 Q350 148 300 168" fill="none" stroke="#c87941" stroke-width="12" class="stroke accent"/>
+    <path d="M55 210 Q65 182 90 176 Q115 170 138 186" fill="#ead5ba" stroke="#7b4b2a" stroke-width="8" class="stroke"/>
+    <rect x="78" y="190" width="22" height="38" rx="6" fill="#f7efe0" stroke="#7b4b2a" stroke-width="7" class="stroke"/>
+    <path d="M405 210 Q395 182 370 176 Q345 170 322 186" fill="#ead5ba" stroke="#7b4b2a" stroke-width="8" class="stroke"/>
+    <rect x="348" y="190" width="22" height="38" rx="6" fill="#f7efe0" stroke="#7b4b2a" stroke-width="7" class="stroke"/>
+    <path d="M45 222 C58 210 76 214 89 226" fill="none" stroke="#6f8b5f" stroke-width="7" class="stroke sage"/>
+    <path d="M400 222 C387 210 369 214 356 226" fill="none" stroke="#6f8b5f" stroke-width="7" class="stroke sage"/>
+    <path d="M200 110 Q232 96 264 108" fill="none" stroke="#c87941" stroke-width="6" class="stroke accent"/>
+    <circle cx="175" cy="110" r="7" fill="#c87941"/>
+    <circle cx="310" cy="110" r="7" fill="#c87941"/>
+  </g>
+</g>
+<g transform="translate(420 115)">
+  <text x="0" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="2" fill="#7b4b2a">Federationbuilders</text>
+  <text x="6" y="162" font-family="'Cormorant Garamond', 'Times New Roman', serif" font-size="22" letter-spacing="1" fill="#6f8b5f">Building warmth together</text>
+  <path d="M6 174 L180 174" stroke="#c87941" stroke-width="5" class="stroke accent"/>
+  <path d="M190 174 Q200 186 212 174" stroke="#6f8b5f" stroke-width="5" fill="none" class="stroke sage"/>
+</g>
+</svg>
